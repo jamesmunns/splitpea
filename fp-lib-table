@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/submodules/reform/reform2-keyboard-pcb/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "import")(type "KiCad")(uri "${KIPRJMOD}/import/import.pretty")(options "")(descr ""))
+)

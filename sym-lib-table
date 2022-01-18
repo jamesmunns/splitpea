@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "import")(type "KiCad")(uri "${KIPRJMOD}/import/import.kicad_sym")(options "")(descr ""))
+  (lib (name "stm32g03x")(type "KiCad")(uri "${KIPRJMOD}/stm32g03x.kicad_sym")(options "")(descr ""))
+)
